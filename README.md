@@ -22,7 +22,7 @@ Tailwind CSS
 
 
 ## Live Demo
-[Link]
+[https://chitrarajkamal.github.io/Greenden-Tailwind/]
 
 📸 Preview
 <!-- Replace with your actual screenshot file -->
