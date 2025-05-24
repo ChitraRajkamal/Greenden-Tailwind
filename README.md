@@ -20,11 +20,10 @@ HTML / CSS
 
 Tailwind CSS
 
-
 ## Live Demo
-[https://chitrarajkamal.github.io/Greenden-Tailwind/]
 
-📸 Preview
-<!-- Replace with your actual screenshot file -->
+You can access my portfolio website by visiting [https://chitrarajkamal.github.io/Greenden-Tailwind/] feel free to explore the content and get in touch!
+
+
 
 
